@@ -1,6 +1,10 @@
-####Before you can use the bot, you have to do some prep work. Don't worry, it should be easy.
+# Manic Messenger
 
-#####First of all, you need a bot:
+This bot can send a unique message every day to someone you would want to send a unique message every day. Use it to tell your girlfriend/wife/granny/friends that you love them! Do not use for spam and/or malicius stuffs, or I will find you and kick your butt.
+
+#### Before you can use the bot, you have to do some prep work. Don't worry, it should be easy.
+
+##### First of all, you need a bot:
 1. Go to https://discordapp.com/developers/applications
 2. Click 'New Application' to add a new application
 3. Give it a name
@@ -9,7 +13,7 @@
 6. Give it a name
 7. Don't close the page, you will need it later
 
-#####Now, time to edit some settings:
+##### Now, time to edit some settings:
 1. In this exact folder, you have a file auth.json
 2. Open the file
 3. You will see something like this: "token": ""
@@ -20,9 +24,9 @@
 8. Save the file
 
 
-####Now, for our next trick, you'll set up the messaging itself.
+#### Now, for our next trick, you'll set up the messaging itself.
 
-#####Let's find our friend that we want to message to:
+##### Let's find our friend that we want to message to:
 1. Open Discord
 2. In your settings, go to Appearance
 3. Scroll down to ADVANCED
@@ -31,7 +35,7 @@
 6. Right click on him
 7. Click 'Copy ID'
 
-#####Time to edit settings.json:
+##### Time to edit settings.json:
 1. Open settings.json
 2. There will be some sample lines there
 3. Find this one: "user_id": ""
