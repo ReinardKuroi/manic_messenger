@@ -1,6 +1,6 @@
 # Manic Messenger
 
-This bot can send a unique message every day to someone you would want to send a unique message every day. Use it to tell your girlfriend/wife/granny/friends that you love them! Do not use for spam and/or malicius stuffs, or I will find you and kick your butt.
+This bot can send a unique message every day to someone you would want to send a unique message every day. Use it to tell your girlfriend/wife/granny/friends that you love them! Do not use for spam and/or malicious stuffs, or I will find you and kick your butt.
 
 #### Before you can use the bot, you have to do some prep work. Don't worry, it should be easy.
 
